@@ -41,7 +41,7 @@ You can access the live deployed application here:
  
 1. Clone the project
 ```bash
-git clone https://github.com/your-username/travel_booking.git
+git clone https://github.com/Anugyajain27e/travel_booking.git
 cd travel_booking
 python -m venv venv
 venv\Scripts\activate  # On Windows
